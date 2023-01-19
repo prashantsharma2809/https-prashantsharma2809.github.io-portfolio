@@ -243,7 +243,7 @@ section .title::after{
     background: #950740;
     color: #fff;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 300;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
@@ -394,7 +394,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover .box{
-    transform: scale(1.05);
+    transform: scale(.45);
 }
 .teams .carousel .card .text{
     font-size: 25px;
