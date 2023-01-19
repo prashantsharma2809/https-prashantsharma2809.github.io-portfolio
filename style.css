@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: orangered;
+    color: #950740;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -193,7 +193,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: orangered;
+    color: #950740;
     font-weight: 500;
 }
 .home .home-content a{
@@ -233,7 +233,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: orangered;
+    color: #950740;
 }
 .about .about-content .right p{
     text-align: justify;
@@ -346,7 +346,7 @@ section .title::after{
 .skills .skills-content .right .line{
     height: 5px;
     width: 100%;
-    background: lightgrey;
+    background: #6F2232;
     position: relative;
 }
 .skills .skills-content .right .line::before{
