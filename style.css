@@ -242,8 +242,8 @@ section .title::after{
     display: inline-block;
     background: #950740;
     color: #fff;
-    font-size: 10px;
-    font-weight: 300;
+    font-size: 20px;
+    font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
@@ -327,7 +327,7 @@ section .title::after{
  
 .skills .skills-content .left a:hover{
     color: #950740;
-    background: none;
+    background: #6F2232;
     margin-left: 100px;
 }
 .skills .skills-content .right .bars{
